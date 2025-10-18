@@ -19,7 +19,7 @@ Siga os passos abaixo para rodar o projeto em seu ambiente local.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <URL-do-seu-repositorio>
+    git clone https://github.com/TerziGui/youvisa-frontend.git
     cd youvisa-frontend
     ```
 
